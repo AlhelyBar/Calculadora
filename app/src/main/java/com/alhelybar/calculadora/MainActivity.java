@@ -35,7 +35,6 @@ public class MainActivity extends Activity {
         btnMultiplica = (Button) findViewById(R.id.Multiplica);
         btnDivide = (Button) findViewById(R.id.Divide);
         btnClean = (Button) findViewById(R.id.Clean);
-        Resultado = (TextView) findViewById(R.id.Etiqueta);
         btnPunto = (Button) findViewById(R.id.Punto);
         btnIgual = (Button) findViewById(R.id.Igual);
 
